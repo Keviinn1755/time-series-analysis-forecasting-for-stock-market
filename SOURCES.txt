@@ -1,0 +1,6 @@
+pages/functions for CAPM Beta
+pages/functions/plotly_figure.py for #stock analysis
+from pages.functions.plotly_figure import close_chart, candlestick, RSI, Moving_avarage, MACD  for# stock analysis
+
+pages.functions.plotly_figure
+pages.functions
